@@ -4,7 +4,9 @@
 
 ## Скриншот
 
-![Zapret GUI](docs/screenshots/gui-main.png)
+<p align="center">
+  <img src="docs/screenshots/gui-main.png" alt="Zapret GUI" width="440">
+</p>
 
 ## Запуск
 
