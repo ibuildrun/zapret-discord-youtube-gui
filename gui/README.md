@@ -2,6 +2,10 @@
 
 Современный графический интерфейс на WPF для zapret-discord-youtube.
 
+## Скриншот
+
+![Zapret GUI](docs/screenshots/gui-main.png)
+
 ## Запуск
 
 Дважды кликните на `gui.vbs` в корневой папке.
