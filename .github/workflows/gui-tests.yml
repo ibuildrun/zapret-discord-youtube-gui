@@ -59,4 +59,4 @@ jobs:
         with:
           name: Pester Tests
           path: test-results.xml
-          reporter: java-junit
+          reporter: dotnet-nunit
