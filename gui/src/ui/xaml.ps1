@@ -101,7 +101,7 @@ function Get-MainWindowXaml {
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="Foreground" Value="#666666"/>
             <Setter Property="BorderThickness" Value="0"/>
-            <Setter Property="Width" Value="46"/>
+            <Setter Property="Width" Value="40"/>
             <Setter Property="Height" Value="32"/>
             <Setter Property="Cursor" Value="Hand"/>
             <Setter Property="FontSize" Value="10"/>
@@ -127,7 +127,7 @@ function Get-MainWindowXaml {
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="Button">
-                        <Border Background="{TemplateBinding Background}" CornerRadius="0,16,0,0">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="0,12,0,0">
                             <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
                         </Border>
                         <ControlTemplate.Triggers>
