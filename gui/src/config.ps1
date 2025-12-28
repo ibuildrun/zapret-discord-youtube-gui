@@ -2,7 +2,7 @@
 # Version and settings
 
 $script:Config = @{
-    Version = "1.9.2"
+    Version = "1.9.3"
     AppName = "Zapret GUI"
     
     # GitHub URLs
